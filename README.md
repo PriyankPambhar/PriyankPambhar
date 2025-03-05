@@ -25,6 +25,7 @@ Here's a glimpse into my repositories:
 * React ⚛️
 * Laravel 💻
 * HTML/CSS 🎨
+* Python 🐍
 
 ## 🤝 Let's Connect
 
