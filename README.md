@@ -1,37 +1,65 @@
 # 👋 Hi there, I'm Priyank Pambhar! 👨‍💻
 
-Welcome to my GitHub profile! I'm a developer with a keen interest in Android 📱 development and exploring the world of React ⚛️.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PriyakPambhar-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/pambhar-priyank-3788ba241)
+[![Email](https://img.shields.io/badge/Email-Pambharpriyank1@gmail.com-red?logo=gmail&style=flat-square)](mailto:Pambharpriyank1@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/PriyankPambhar?label=Follow&style=social)](https://github.com/PriyankPambhar)
 
-## 🚀 About Me
+---
 
-* I'm currently focused on expanding my skills in Android 📱 and React ⚛️.
-* I'm also exploring the world of Prompt Engineering 🤖.
-* I enjoy building projects that solve practical problems and demonstrate my learning journey. 💡
+### 🚀 About Me
 
-## 📂 My Projects
+🎯 I'm a **Prompt Engineer**, **Graphic Designer**, and **UI/UX Designer**  
+🤖 Passionate about **AI**, **automation systems**, and **generative content**  
+🎨 Focused on clean, purposeful design and smooth user experiences  
+🛠️ I create tools that merge creativity, intelligence, and functionality  
 
-Here's a glimpse into my repositories:
+---
 
-* **⚙️ [config](https://github.com/PriyankPambhar/config):** Configuration files for my GitHub profile.
-* **📄 [Resume-Builder-laravel-projects](https://github.com/PriyankPambhar/Resume-Builder-laravel-projects):** A Laravel-based resume builder project.
-* **📱 [Android-Projects](https://github.com/PriyankPambhar/Android-Projects):** My collection of Android projects.
-* **🤖 [The-Ai-Genrated-Projects](https://github.com/PriyankPambhar/The-Ai-Genrated-Projects):** Projects generated using AI.
-* **🌐 [PORTFOLIO](https://github.com/PriyankPambhar/PORTFOLIO):** My personal portfolio website.
-* **📺 [Netflix-Webpage](https://github.com/PriyankPambhar/Netflix-Webpage):** A recreation of the Netflix webpage.
+### 🧠 Current Focus
 
-## 🛠️ Technologies I'm Working With
+- ⚡ Building **AI-powered workflows** using GPT, Gemini, and n8n  
+- 🎨 Designing clean and smart UIs with Figma, Canva & modern web tools  
+- 🤖 Developing projects that use **prompt engineering** to solve real-world problems  
+- 📚 Exploring advanced **No-Code/Low-Code automation tools**
 
-* Android (Java/Kotlin) 📱
-* React ⚛️
-* Laravel 💻
-* HTML/CSS 🎨
-* Python 🐍
+---
 
-## 🤝 Let's Connect
+### 📂 My Projects
 
-* Email: Pambharpriyank1@gmail.com 📧
-* LinkedIn: [in/pambhar-priyank-3788ba241](https://www.linkedin.com/in/pambhar-priyank-3788ba241) 🔗
+🔧 [**config**](https://github.com/PriyankPambhar/config) – Configs for my GitHub & dev setup  
+📄 [**Resume-Builder-laravel-projects**](https://github.com/PriyankPambhar/Resume-Builder-laravel-projects) – Laravel-based resume builder  
+🤖 [**The-Ai-Genrated-Projects**](https://github.com/PriyankPambhar/The-Ai-Genrated-Projects) – AI-generated tools & experiments  
+🌐 [**PORTFOLIO**](https://github.com/PriyankPambhar/PORTFOLIO) – My personal website  
+📺 [**Netflix-Webpage**](https://github.com/PriyankPambhar/Netflix-Webpage) – UI clone of Netflix homepage  
 
-## 👤 Pronouns
+---
 
-* He/him 🙋‍♂️
+### 🛠️ Tools & Technologies
+
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-black?logo=figma&style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-orange?logo=n8n&style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-0081A5?logo=openai&logoColor=white&style=flat-square)
+![Zapier](https://img.shields.io/badge/Zapier-FD4C02?logo=zapier&logoColor=white&style=flat-square)
+
+---
+
+### 🤝 Let's Connect
+
+📧 Email: [Pambharpriyank1@gmail.com](mailto:Pambharpriyank1@gmail.com)  
+🔗 LinkedIn: [pambhar-priyank-3788ba241](https://www.linkedin.com/in/pambhar-priyank-3788ba241)  
+🌐 Portfolio: Coming soon...
+
+---
+
+### 👤 Pronouns
+
+He/Him 🙋‍♂️
+
+---
+
+*Thanks for visiting my profile — let's build something awesome together! 🚀*
